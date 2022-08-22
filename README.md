@@ -2,7 +2,7 @@
 
 ## Description
 The given collection is dedicated for all Arduino alike boards. In the following description, each folder will be described.
-Feel free to (re)use the code in any way you wish, but bare in mind that the source code is provided "as-is". It is on your own risk and you are solely responsible for whatever happens then.
+
 
 ## How to set up? 
 
